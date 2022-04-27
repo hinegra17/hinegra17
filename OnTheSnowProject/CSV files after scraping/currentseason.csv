@@ -1,0 +1,697 @@
+Location,Resort,Pass,Month,Average Snowfall,Snowfall Days,Average Base Depth,Average Summit Depth,Max Base Depth,Biggest Snowfall
+utah,Alta,Ikon,October,"11""",3,"16""","20""","20""","5"""
+utah,Alta,Ikon,November,"82""",14,"45""","45""","65""","16"""
+utah,Alta,Ikon,December,"76""",13,"69""","71""","87""","16"""
+utah,Alta,Ikon,January,"73""",13,"92""","93""","107""","15"""
+utah,Alta,Ikon,February,"61""",11,"106""","106""","118""","14"""
+utah,Alta,Ikon,March,"37""",7,"97""","91""","108""","12"""
+utah,Alta,Ikon,April,"0""",0,"22""","14""","23""","0"""
+utah,Alta,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Arapahoe Basin,Ikon,October,"33""",10,"20""","20""","25""","8"""
+colorado,Arapahoe Basin,Ikon,November,"43""",13,"29""","29""","41""","10"""
+colorado,Arapahoe Basin,Ikon,December,"42""",13,"43""","43""","52""","9"""
+colorado,Arapahoe Basin,Ikon,January,"44""",14,"54""","54""","60""","9"""
+colorado,Arapahoe Basin,Ikon,February,"44""",13,"61""","61""","68""","7"""
+colorado,Arapahoe Basin,Ikon,March,"41""",13,"56""","57""","65""","7"""
+colorado,Arapahoe Basin,Ikon,April,"32""",10,"58""","58""","68""","7"""
+colorado,Arapahoe Basin,Ikon,May,"1""",0,"35""","32""","46""","0"""
+colorado,Aspen Snowmass,Ikon,October,"22""",5,"14""","21""","18""","8"""
+colorado,Aspen Snowmass,Ikon,November,"64""",14,"21""","37""","31""","13"""
+colorado,Aspen Snowmass,Ikon,December,"52""",12,"31""","53""","41""","11"""
+colorado,Aspen Snowmass,Ikon,January,"59""",12,"42""","66""","51""","12"""
+colorado,Aspen Snowmass,Ikon,February,"65""",12,"80""","79""","875""","12"""
+colorado,Aspen Snowmass,Ikon,March,"30""",7,"47""","65""","53""","8"""
+colorado,Aspen Snowmass,Ikon,April,"0""",0,"20""","14""","20""","0"""
+colorado,Aspen Snowmass,Ikon,May,"0""",0,"7""","2""","7""","0"""
+california,Bear Mountain,Ikon,October,"4""",1,"10""","14""","12""","3"""
+california,Bear Mountain,Ikon,November,"18""",3,"19""","29""","25""","8"""
+california,Bear Mountain,Ikon,December,"29""",3,"28""","39""","32""","10"""
+california,Bear Mountain,Ikon,January,"23""",4,"31""","44""","34""","9"""
+california,Bear Mountain,Ikon,February,"15""",3,"28""","40""","34""","9"""
+california,Bear Mountain,Ikon,March,"0""",0,"13""","17""","15""","0"""
+california,Bear Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+california,Bear Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+montana,Big Sky,Ikon,October,"14""",4,"16""","22""","19""","5"""
+montana,Big Sky,Ikon,November,"62""",16,"23""","40""","54""","12"""
+montana,Big Sky,Ikon,December,"47""",12,"37""","59""","45""","9"""
+montana,Big Sky,Ikon,January,"58""",16,"48""","77""","55""","10"""
+montana,Big Sky,Ikon,February,"55""",13,"54""","84""","60""","10"""
+montana,Big Sky,Ikon,March,"30""",7,"51""","72""","57""","8"""
+montana,Big Sky,Ikon,April,"0""",0,"0""","0""","0""","0"""
+montana,Big Sky,Ikon,May,"0""",0,"0""","0""","0""","0"""
+ontario,Blue Mountain,Ikon,October,"0""",0,"1""","1""","1""","0"""
+ontario,Blue Mountain,Ikon,November,"19""",7,"15""","14""","20""","5"""
+ontario,Blue Mountain,Ikon,December,"30""",13,"30""","30""","39""","6"""
+ontario,Blue Mountain,Ikon,January,"28""",12,"43""","43""","49""","6"""
+ontario,Blue Mountain,Ikon,February,"11""",6,"42""","41""","46""","5"""
+ontario,Blue Mountain,Ikon,March,"4""",2,"22""","21""","27""","2"""
+ontario,Blue Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+ontario,Blue Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+michigan,Boyne Mountain,Ikon,October,"3""",1,"7""","10""","9""","1"""
+michigan,Boyne Mountain,Ikon,November,"28""",10,"21""","30""","30""","8"""
+michigan,Boyne Mountain,Ikon,December,"40""",14,"36""","47""","43""","7"""
+michigan,Boyne Mountain,Ikon,January,"29""",13,"45""","54""","46""","6"""
+michigan,Boyne Mountain,Ikon,February,"13""",6,"43""","52""","48""","5"""
+michigan,Boyne Mountain,Ikon,March,"8""",3,"26""","32""","34""","2"""
+michigan,Boyne Mountain,Ikon,April,"0""",0,"1""","2""","1""","0"""
+michigan,Boyne Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+utah,Brighton,Ikon,October,"19""",3,"27""","23""","35""","8"""
+utah,Brighton,Ikon,November,"80""",14,"41""","42""","59""","17"""
+utah,Brighton,Ikon,December,"87""",13,"64""","64""","79""","16"""
+utah,Brighton,Ikon,January,"79""",14,"78""","81""","91""","15"""
+utah,Brighton,Ikon,February,"64""",11,"93""","91""","102""","13"""
+utah,Brighton,Ikon,March,"31""",6,"69""","78""","75""","10"""
+utah,Brighton,Ikon,April,"0""",0,"0""","0""","0""","0"""
+utah,Brighton,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Copper Mountain,Ikon,October,"25""",7,"21""","20""","25""","6"""
+colorado,Copper Mountain,Ikon,November,"47""",14,"28""","31""","38""","10"""
+colorado,Copper Mountain,Ikon,December,"45""",14,"39""","49""","47""","9"""
+colorado,Copper Mountain,Ikon,January,"45""",15,"50""","64""","55""","8"""
+colorado,Copper Mountain,Ikon,February,"49""",13,"58""","75""","65""","8"""
+colorado,Copper Mountain,Ikon,March,"27""",8,"57""","65""","64""","10"""
+colorado,Copper Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+colorado,Copper Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+washington,Crystal Mountain,Ikon,October,"23""",4,"11""","21""","15""","8"""
+washington,Crystal Mountain,Ikon,November,"111""",16,"30""","46""","48""","20"""
+washington,Crystal Mountain,Ikon,December,"91""",15,"49""","71""","64""","19"""
+washington,Crystal Mountain,Ikon,January,"86""",14,"63""","87""","112""","17"""
+washington,Crystal Mountain,Ikon,February,"60""",14,"70""","101""","147""","12"""
+washington,Crystal Mountain,Ikon,March,"35""",9,"54""","93""","58""","8"""
+washington,Crystal Mountain,Ikon,April,"2""",1,"19""","29""","22""","1"""
+washington,Crystal Mountain,Ikon,May,"0""",0,"7""","11""","7""","0"""
+british-columbia,Cypress Mountain,Ikon,October,"8""",2,"8""","10""","11""","3"""
+british-columbia,Cypress Mountain,Ikon,November,"69""",13,"43""","55""","71""","13"""
+british-columbia,Cypress Mountain,Ikon,December,"53""",12,"75""","93""","89""","12"""
+british-columbia,Cypress Mountain,Ikon,January,"48""",11,"87""","107""","98""","11"""
+british-columbia,Cypress Mountain,Ikon,February,"51""",11,"87""","122""","98""","11"""
+british-columbia,Cypress Mountain,Ikon,March,"8""",2,"67""","107""","70""","3"""
+british-columbia,Cypress Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+british-columbia,Cypress Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+utah,Deer Valley,Ikon,October,"4""",1,"2""","1""","2""","2"""
+utah,Deer Valley,Ikon,November,"54""",12,"34""","30""","47""","12"""
+utah,Deer Valley,Ikon,December,"61""",12,"53""","53""","64""","13"""
+utah,Deer Valley,Ikon,January,"54""",11,"66""","66""","76""","12"""
+utah,Deer Valley,Ikon,February,"41""",10,"78""","75""","181""","9"""
+utah,Deer Valley,Ikon,March,"10""",2,"68""","59""","72""","5"""
+utah,Deer Valley,Ikon,April,"0""",0,"0""","0""","0""","0"""
+utah,Deer Valley,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Eldora,Ikon,October,"13""",4,"20""","18""","22""","4"""
+colorado,Eldora,Ikon,November,"41""",11,"25""","25""","29""","9"""
+colorado,Eldora,Ikon,December,"39""",11,"33""","33""","36""","8"""
+colorado,Eldora,Ikon,January,"49""",13,"43""","43""","47""","11"""
+colorado,Eldora,Ikon,February,"40""",10,"49""","49""","51""","8"""
+colorado,Eldora,Ikon,March,"17""",5,"47""","42""","48""","8"""
+colorado,Eldora,Ikon,April,"0""",0,"0""","0""","0""","0"""
+colorado,Eldora,Ikon,May,"0""",0,"0""","0""","0""","0"""
+wyoming,Jackson Hole,Ikon,October,"20""",4,"10""","28""","12""","10"""
+wyoming,Jackson Hole,Ikon,November,"107""",19,"20""","51""","31""","15"""
+wyoming,Jackson Hole,Ikon,December,"99""",16,"30""","73""","39""","17"""
+wyoming,Jackson Hole,Ikon,January,"112""",18,"39""","94""","49""","16"""
+wyoming,Jackson Hole,Ikon,February,"65""",14,"41""","103""","49""","14"""
+wyoming,Jackson Hole,Ikon,March,"12""",3,"32""","77""","35""","5"""
+wyoming,Jackson Hole,Ikon,April,"0""",0,"0""","0""","0""","0"""
+wyoming,Jackson Hole,Ikon,May,"0""",0,"0""","0""","0""","0"""
+california,June Mountain,Ikon,October,"0""",0,"0""","0""","0""","0"""
+california,June Mountain,Ikon,November,"19""",4,"10""","24""","12""","7"""
+california,June Mountain,Ikon,December,"60""",6,"15""","34""","22""","16"""
+california,June Mountain,Ikon,January,"55""",6,"24""","52""","33""","17"""
+california,June Mountain,Ikon,February,"37""",6,"25""","57""","32""","12"""
+california,June Mountain,Ikon,March,"5""",1,"21""","44""","23""","3"""
+california,June Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+california,June Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+vermont,Killington,Ikon,October,"17""",6,"11""","17""","12""","6"""
+vermont,Killington,Ikon,November,"36""",12,"15""","22""","18""","9"""
+vermont,Killington,Ikon,December,"36""",11,"19""","27""","21""","9"""
+vermont,Killington,Ikon,January,"44""",12,"22""","32""","24""","10"""
+vermont,Killington,Ikon,February,"28""",8,"26""","35""","27""","8"""
+vermont,Killington,Ikon,March,"9""",4,"20""","29""","22""","4"""
+vermont,Killington,Ikon,April,"0""",0,"16""","21""","17""","0"""
+vermont,Killington,Ikon,May,"0""",0,"3""","4""","3""","0"""
+alberta,Lake Louise,Ikon,October,"36""",11,"21""","26""","29""","10"""
+alberta,Lake Louise,Ikon,November,"39""",15,"32""","43""","44""","9"""
+alberta,Lake Louise,Ikon,December,"35""",14,"44""","56""","51""","9"""
+alberta,Lake Louise,Ikon,January,"35""",12,"47""","66""","52""","8"""
+alberta,Lake Louise,Ikon,February,"36""",15,"53""","74""","58""","8"""
+alberta,Lake Louise,Ikon,March,"30""",12,"46""","70""","51""","6"""
+alberta,Lake Louise,Ikon,April,"6""",2,"30""","50""","32""","3"""
+alberta,Lake Louise,Ikon,May,"0""",0,"0""","0""","0""","0"""
+new-hampshire,Loon Mountain,Ikon,October,"8""",3,"7""","11""","7""","4"""
+new-hampshire,Loon Mountain,Ikon,November,"31""",10,"13""","19""","17""","7"""
+new-hampshire,Loon Mountain,Ikon,December,"29""",10,"18""","27""","23""","6"""
+new-hampshire,Loon Mountain,Ikon,January,"36""",11,"24""","34""","27""","10"""
+new-hampshire,Loon Mountain,Ikon,February,"22""",6,"27""","36""","28""","7"""
+new-hampshire,Loon Mountain,Ikon,March,"9""",3,"22""","27""","25""","5"""
+new-hampshire,Loon Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+new-hampshire,Loon Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+california,Mammoth,Ikon,October,"30""",5,"15""","25""","24""","10"""
+california,Mammoth,Ikon,November,"70""",9,"37""","62""","57""","18"""
+california,Mammoth,Ikon,December,"66""",7,"61""","108""","82""","15"""
+california,Mammoth,Ikon,January,"54""",7,"79""","139""","87""","13"""
+california,Mammoth,Ikon,February,"50""",8,"86""","153""","98""","15"""
+california,Mammoth,Ikon,March,"25""",5,"70""","138""","86""","9"""
+california,Mammoth,Ikon,April,"9""",3,"39""","99""","55""","4"""
+california,Mammoth,Ikon,May,"0""",0,"14""","48""","22""","0"""
+oregon,Mt. Bachelor,Ikon,October,"20""",4,"16""","18""","21""","9"""
+oregon,Mt. Bachelor,Ikon,November,"105""",15,"43""","54""","63""","17"""
+oregon,Mt. Bachelor,Ikon,December,"79""",14,"68""","85""","84""","17"""
+oregon,Mt. Bachelor,Ikon,January,"86""",14,"86""","105""","105""","14"""
+oregon,Mt. Bachelor,Ikon,February,"62""",13,"99""","122""","111""","11"""
+oregon,Mt. Bachelor,Ikon,March,"35""",9,"84""","116""","96""","8"""
+oregon,Mt. Bachelor,Ikon,April,"9""",2,"51""","91""","75""","4"""
+oregon,Mt. Bachelor,Ikon,May,"0""",0,"0""","0""","0""","0"""
+alberta,Mt. Norquay,Ikon,October,"14""",8,"14""","14""","19""","4"""
+alberta,Mt. Norquay,Ikon,November,"20""",13,"21""","28""","25""","6"""
+alberta,Mt. Norquay,Ikon,December,"20""",11,"29""","33""","31""","6"""
+alberta,Mt. Norquay,Ikon,January,"19""",12,"28""","37""","30""","5"""
+alberta,Mt. Norquay,Ikon,February,"20""",13,"26""","40""","27""","5"""
+alberta,Mt. Norquay,Ikon,March,"10""",6,"18""","35""","19""","4"""
+alberta,Mt. Norquay,Ikon,April,"0""",0,"0""","6""","0""","0"""
+alberta,Mt. Norquay,Ikon,May,"0""",0,"0""","0""","0""","0"""
+california,Palisades Tahoe,Ikon,October,"31""",4,"14""","16""","19""","11"""
+california,Palisades Tahoe,Ikon,November,"77""",11,"25""","40""","44""","18"""
+california,Palisades Tahoe,Ikon,December,"76""",9,"45""","69""","64""","17"""
+california,Palisades Tahoe,Ikon,January,"79""",8,"54""","83""","74""","19"""
+california,Palisades Tahoe,Ikon,February,"72""",10,"58""","104""","76""","18"""
+california,Palisades Tahoe,Ikon,March,"26""",5,"38""","99""","50""","9"""
+california,Palisades Tahoe,Ikon,April,"4""",1,"14""","65""","20""","2"""
+california,Palisades Tahoe,Ikon,May,"0""",0,"3""","31""","4""","0"""
+british-columbia,Revelstoke,Ikon,October,"9""",3,"27""","32""","31""","4"""
+british-columbia,Revelstoke,Ikon,November,"63""",21,"48""","57""","72""","11"""
+british-columbia,Revelstoke,Ikon,December,"55""",19,"57""","71""","71""","10"""
+british-columbia,Revelstoke,Ikon,January,"44""",17,"63""","87""","71""","8"""
+british-columbia,Revelstoke,Ikon,February,"45""",18,"60""","98""","64""","7"""
+british-columbia,Revelstoke,Ikon,March,"16""",6,"32""","69""","41""","5"""
+british-columbia,Revelstoke,Ikon,April,"0""",0,"0""","0""","0""","0"""
+british-columbia,Revelstoke,Ikon,May,"0""",0,"0""","0""","0""","0"""
+california,Snow Summit,Ikon,October,"5""",1,"10""","13""","12""","4"""
+california,Snow Summit,Ikon,November,"21""",4,"19""","28""","28""","11"""
+california,Snow Summit,Ikon,December,"29""",3,"28""","39""","34""","11"""
+california,Snow Summit,Ikon,January,"20""",4,"33""","45""","38""","8"""
+california,Snow Summit,Ikon,February,"15""",3,"30""","40""","37""","9"""
+california,Snow Summit,Ikon,March,"0""",0,"12""","17""","15""","0"""
+california,Snow Summit,Ikon,April,"0""",0,"0""","0""","0""","0"""
+california,Snow Summit,Ikon,May,"0""",0,"0""","0""","0""","0"""
+utah,Snowbasin,Ikon,October,"12""",2,"20""","17""","23""","6"""
+utah,Snowbasin,Ikon,November,"66""",12,"35""","38""","54""","16"""
+utah,Snowbasin,Ikon,December,"60""",12,"57""","58""","73""","14"""
+utah,Snowbasin,Ikon,January,"64""",12,"75""","76""","89""","12"""
+utah,Snowbasin,Ikon,February,"42""",10,"81""","85""","93""","10"""
+utah,Snowbasin,Ikon,March,"13""",3,"66""","66""","83""","6"""
+utah,Snowbasin,Ikon,April,"0""",0,"0""","0""","0""","0"""
+utah,Snowbasin,Ikon,May,"0""",0,"0""","0""","0""","0"""
+utah,Snowbird,Ikon,October,"19""",3,"19""","21""","23""","9"""
+utah,Snowbird,Ikon,November,"87""",15,"46""","45""","63""","16"""
+utah,Snowbird,Ikon,December,"90""",13,"70""","70""","88""","19"""
+utah,Snowbird,Ikon,January,"84""",14,"90""","90""","105""","16"""
+utah,Snowbird,Ikon,February,"69""",12,"104""","128""","116""","15"""
+utah,Snowbird,Ikon,March,"62""",10,"95""","95""","109""","15"""
+utah,Snowbird,Ikon,April,"13""",3,"84""","74""","94""","6"""
+utah,Snowbird,Ikon,May,"0""",0,"9""","9""","12""","0"""
+utah,Solitude,Ikon,October,"16""",3,"13""","10""","13""","9"""
+utah,Solitude,Ikon,November,"72""",13,"30""","35""","41""","15"""
+utah,Solitude,Ikon,December,"76""",12,"53""","58""","64""","17"""
+utah,Solitude,Ikon,January,"81""",13,"77""","77""","85""","15"""
+utah,Solitude,Ikon,February,"62""",12,"87""","88""","97""","15"""
+utah,Solitude,Ikon,March,"20""",4,"67""","74""","74""","10"""
+utah,Solitude,Ikon,April,"0""",0,"0""","0""","0""","0"""
+utah,Solitude,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Steamboat,Ikon,October,"12""",3,"16""","16""","20""","4"""
+colorado,Steamboat,Ikon,November,"77""",17,"30""","35""","44""","13"""
+colorado,Steamboat,Ikon,December,"63""",14,"45""","58""","54""","13"""
+colorado,Steamboat,Ikon,January,"63""",15,"57""","99""","65""","10"""
+colorado,Steamboat,Ikon,February,"42""",12,"61""","82""","69""","8"""
+colorado,Steamboat,Ikon,March,"14""",5,"51""","66""","56""","5"""
+colorado,Steamboat,Ikon,April,"0""",0,"0""","0""","0""","0"""
+colorado,Steamboat,Ikon,May,"0""",0,"0""","0""","0""","0"""
+vermont,Stratton,Ikon,October,"4""",1,"13""","14""","15""","3"""
+vermont,Stratton,Ikon,November,"31""",8,"16""","21""","21""","12"""
+vermont,Stratton,Ikon,December,"26""",8,"18""","24""","22""","9"""
+vermont,Stratton,Ikon,January,"40""",10,"22""","29""","26""","10"""
+vermont,Stratton,Ikon,February,"18""",4,"25""","33""","28""","7"""
+vermont,Stratton,Ikon,March,"2""",1,"20""","25""","23""","1"""
+vermont,Stratton,Ikon,April,"0""",0,"0""","0""","0""","0"""
+vermont,Stratton,Ikon,May,"0""",0,"0""","0""","0""","0"""
+vermont,Sugarbush,Ikon,October,"15""",4,"13""","21""","14""","6"""
+vermont,Sugarbush,Ikon,November,"53""",13,"16""","33""","19""","10"""
+vermont,Sugarbush,Ikon,December,"45""",14,"15""","39""","19""","10"""
+vermont,Sugarbush,Ikon,January,"46""",13,"18""","46""","21""","10"""
+vermont,Sugarbush,Ikon,February,"42""",9,"20""","48""","21""","12"""
+vermont,Sugarbush,Ikon,March,"14""",5,"12""","38""","19""","6"""
+vermont,Sugarbush,Ikon,April,"0""",0,"12""","23""","12""","0"""
+vermont,Sugarbush,Ikon,May,"0""",0,"0""","0""","0""","0"""
+maine,Sugarloaf,Ikon,October,"11""",3,"8""","12""","11""","5"""
+maine,Sugarloaf,Ikon,November,"32""",8,"14""","20""","22""","13"""
+maine,Sugarloaf,Ikon,December,"27""",7,"21""","30""","26""","10"""
+maine,Sugarloaf,Ikon,January,"39""",7,"26""","36""","32""","14"""
+maine,Sugarloaf,Ikon,February,"23""",5,"25""","35""","31""","10"""
+maine,Sugarloaf,Ikon,March,"12""",5,"15""","26""","20""","5"""
+maine,Sugarloaf,Ikon,April,"0""",0,"8""","12""","8""","0"""
+maine,Sugarloaf,Ikon,May,"0""",0,"0""","0""","0""","0"""
+idaho,Sun Valley,Ikon,October,"6""",2,"17""","21""","18""","3"""
+idaho,Sun Valley,Ikon,November,"54""",12,"26""","40""","35""","11"""
+idaho,Sun Valley,Ikon,December,"36""",10,"43""","61""","53""","9"""
+idaho,Sun Valley,Ikon,January,"42""",10,"55""","78""","64""","9"""
+idaho,Sun Valley,Ikon,February,"23""",8,"47""","79""","55""","7"""
+idaho,Sun Valley,Ikon,March,"6""",3,"30""","56""","39""","3"""
+idaho,Sun Valley,Ikon,April,"0""",0,"0""","0""","0""","0"""
+idaho,Sun Valley,Ikon,May,"0""",0,"0""","0""","0""","0"""
+maine,Sunday River,Ikon,October,"8""",2,"13""","14""","14""","4"""
+maine,Sunday River,Ikon,November,"27""",6,"15""","24""","19""","11"""
+maine,Sunday River,Ikon,December,"24""",5,"20""","33""","22""","9"""
+maine,Sunday River,Ikon,January,"36""",7,"25""","38""","27""","14"""
+maine,Sunday River,Ikon,February,"17""",4,"26""","38""","29""","9"""
+maine,Sunday River,Ikon,March,"6""",2,"19""","25""","23""","4"""
+maine,Sunday River,Ikon,April,"0""",0,"4""","8""","4""","0"""
+maine,Sunday River,Ikon,May,"0""",0,"0""","0""","0""","0"""
+alberta,Sunshine Village,Ikon,October,"40""",12,"32""","38""","39""","9"""
+alberta,Sunshine Village,Ikon,November,"46""",17,"44""","50""","53""","10"""
+alberta,Sunshine Village,Ikon,December,"42""",18,"53""","70""","59""","8"""
+alberta,Sunshine Village,Ikon,January,"42""",16,"62""","84""","68""","9"""
+alberta,Sunshine Village,Ikon,February,"49""",18,"72""","95""","77""","9"""
+alberta,Sunshine Village,Ikon,March,"24""",13,"62""","95""","67""","6"""
+alberta,Sunshine Village,Ikon,April,"8""",5,"52""","82""","58""","3"""
+alberta,Sunshine Village,Ikon,May,"0""",0,"0""","0""","0""","0"""
+new-mexico,Taos,Ikon,October,"14""",2,"19""","12""","22""","7"""
+new-mexico,Taos,Ikon,November,"40""",8,"32""","26""","45""","10"""
+new-mexico,Taos,Ikon,December,"33""",8,"45""","49""","54""","10"""
+new-mexico,Taos,Ikon,January,"44""",8,"56""","61""","68""","15"""
+new-mexico,Taos,Ikon,February,"37""",7,"64""","70""","75""","12"""
+new-mexico,Taos,Ikon,March,"6""",1,"55""","49""","57""","4"""
+new-mexico,Taos,Ikon,April,"0""",0,"0""","0""","0""","0"""
+new-mexico,Taos,Ikon,May,"0""",0,"0""","0""","0""","0"""
+quebec,Tremblant,Ikon,October,"5""",3,"31""","32""","32""","2"""
+quebec,Tremblant,Ikon,November,"37""",15,"23""","176""","40""","9"""
+quebec,Tremblant,Ikon,December,"47""",17,"41""","46""","51""","9"""
+quebec,Tremblant,Ikon,January,"47""",16,"47""","53""","55""","10"""
+quebec,Tremblant,Ikon,February,"28""",10,"57""","58""","62""","8"""
+quebec,Tremblant,Ikon,March,"7""",2,"62""","62""","64""","4"""
+quebec,Tremblant,Ikon,April,"0""",0,"0""","0""","0""","0"""
+quebec,Tremblant,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Winter Park,Ikon,October,"33""",7,"18""","16""","22""","9"""
+colorado,Winter Park,Ikon,November,"63""",16,"31""","34""","43""","10"""
+colorado,Winter Park,Ikon,December,"55""",14,"45""","49""","55""","10"""
+colorado,Winter Park,Ikon,January,"55""",14,"58""","62""","65""","9"""
+colorado,Winter Park,Ikon,February,"54""",13,"68""","71""","77""","10"""
+colorado,Winter Park,Ikon,March,"41""",10,"64""","69""","74""","12"""
+colorado,Winter Park,Ikon,April,"4""",1,"31""","31""","34""","2"""
+colorado,Winter Park,Ikon,May,"0""",0,"0""","0""","0""","0"""
+washington,Summit at Snoqualmie,Ikon,October,"4""",1,"5""","3""","6""","3"""
+washington,Summit at Snoqualmie,Ikon,November,"70""",10,"36""","43""","53""","13"""
+washington,Summit at Snoqualmie,Ikon,December,"64""",12,"58""","66""","72""","13"""
+washington,Summit at Snoqualmie,Ikon,January,"64""",11,"63""","81""","76""","15"""
+washington,Summit at Snoqualmie,Ikon,February,"34""",8,"81""","96""","91""","8"""
+washington,Summit at Snoqualmie,Ikon,March,"10""",2,"59""","73""","67""","5"""
+washington,Summit at Snoqualmie,Ikon,April,"0""",0,"2""","2""","2""","0"""
+washington,Summit at Snoqualmie,Ikon,May,"0""",0,"0""","0""","0""","0"""
+west-virginia,Snowshoe,Ikon,October,"4""",1,"22""","22""","23""","3"""
+west-virginia,Snowshoe,Ikon,November,"19""",6,"33""","36""","37""","6"""
+west-virginia,Snowshoe,Ikon,December,"34""",10,"36""","40""","40""","10"""
+west-virginia,Snowshoe,Ikon,January,"31""",8,"41""","45""","44""","9"""
+west-virginia,Snowshoe,Ikon,February,"24""",6,"40""","43""","45""","7"""
+west-virginia,Snowshoe,Ikon,March,"0""",0,"12""","10""","12""","0"""
+west-virginia,Snowshoe,Ikon,April,"0""",0,"0""","0""","0""","0"""
+west-virginia,Snowshoe,Ikon,May,"0""",0,"0""","0""","0""","0"""
+michigan,The Highlands,Ikon,October,"4""",1,"11""","15""","12""","2"""
+michigan,The Highlands,Ikon,November,"30""",8,"31""","38""","38""","10"""
+michigan,The Highlands,Ikon,December,"46""",14,"40""","51""","46""","8"""
+michigan,The Highlands,Ikon,January,"29""",10,"49""","57""","51""","7"""
+michigan,The Highlands,Ikon,February,"10""",4,"47""","54""","50""","4"""
+michigan,The Highlands,Ikon,March,"1""",0,"8""","8""","8""","0"""
+michigan,The Highlands,Ikon,April,"0""",0,"0""","0""","0""","0"""
+michigan,The Highlands,Ikon,May,"0""",0,"0""","0""","0""","0"""
+new-york,Windham Mountain,Ikon,October,"3""",1,"8""","16""","9""","2"""
+new-york,Windham Mountain,Ikon,November,"20""",6,"11""","26""","16""","8"""
+new-york,Windham Mountain,Ikon,December,"19""",7,"13""","31""","17""","7"""
+new-york,Windham Mountain,Ikon,January,"29""",8,"18""","39""","20""","11"""
+new-york,Windham Mountain,Ikon,February,"17""",4,"20""","42""","21""","9"""
+new-york,Windham Mountain,Ikon,March,"0""",0,"9""","22""","9""","0"""
+new-york,Windham Mountain,Ikon,April,"0""",0,"0""","0""","0""","0"""
+new-york,Windham Mountain,Ikon,May,"0""",0,"0""","0""","0""","0"""
+colorado,Beaver Creek,Epic,October,"20""",5,"19""","15""","22""","6"""
+colorado,Beaver Creek,Epic,November,"50""",14,"26""","26""","35""","9"""
+colorado,Beaver Creek,Epic,December,"46""",12,"38""","38""","47""","10"""
+colorado,Beaver Creek,Epic,January,"47""",14,"49""","49""","57""","9"""
+colorado,Beaver Creek,Epic,February,"50""",11,"58""","58""","69""","10"""
+colorado,Beaver Creek,Epic,March,"15""",4,"53""","48""","60""","7"""
+colorado,Beaver Creek,Epic,April,"0""",0,"7""","7""","7""","0"""
+colorado,Beaver Creek,Epic,May,"0""",0,"0""","0""","0""","0"""
+colorado,Breckenridge,Epic,October,"30""",8,"22""","21""","26""","8"""
+colorado,Breckenridge,Epic,November,"59""",15,"32""","31""","67""","13"""
+colorado,Breckenridge,Epic,December,"57""",13,"45""","45""","57""","11"""
+colorado,Breckenridge,Epic,January,"57""",15,"59""","59""","66""","10"""
+colorado,Breckenridge,Epic,February,"59""",13,"71""","67""","127""","9"""
+colorado,Breckenridge,Epic,March,"36""",8,"66""","62""","76""","11"""
+colorado,Breckenridge,Epic,April,"6""",2,"14""","14""","17""","2"""
+colorado,Breckenridge,Epic,May,"0""",0,"7""","7""","7""","0"""
+northern-alps,Brides les Bains,Epic,October,5cm,0,1cm,5cm,2cm,4cm
+northern-alps,Brides les Bains,Epic,November,24cm,2,21cm,59cm,32cm,7cm
+northern-alps,Brides les Bains,Epic,December,45cm,3,39cm,103cm,54cm,16cm
+northern-alps,Brides les Bains,Epic,January,24cm,4,65cm,145cm,77cm,10cm
+northern-alps,Brides les Bains,Epic,February,28cm,3,62cm,159cm,77cm,11cm
+northern-alps,Brides les Bains,Epic,March,,,,,,
+northern-alps,Brides les Bains,Epic,April,,,,,,
+northern-alps,Brides les Bains,Epic,May,,,,,,
+northern-alps,Courchevel,Epic,October,33cm,3,19cm,42cm,26cm,13cm
+northern-alps,Courchevel,Epic,November,77cm,6,51cm,86cm,76cm,20cm
+northern-alps,Courchevel,Epic,December,92cm,8,94cm,137cm,125cm,25cm
+northern-alps,Courchevel,Epic,January,67cm,7,114cm,162cm,135cm,21cm
+northern-alps,Courchevel,Epic,February,55cm,6,126cm,179cm,151cm,19cm
+northern-alps,Courchevel,Epic,March,,,,,,
+northern-alps,Courchevel,Epic,April,,,,,,
+northern-alps,Courchevel,Epic,May,,,,,,
+british-columbia,Fernie,Epic,October,"4""",1,"5""","12""","5""","1"""
+british-columbia,Fernie,Epic,November,"72""",16,"30""","49""","43""","14"""
+british-columbia,Fernie,Epic,December,"67""",16,"43""","79""","48""","12"""
+british-columbia,Fernie,Epic,January,"55""",13,"50""","94""","54""","11"""
+british-columbia,Fernie,Epic,February,"61""",14,"51""","107""","55""","14"""
+british-columbia,Fernie,Epic,March,"16""",5,"34""","85""","40""","6"""
+british-columbia,Fernie,Epic,April,"0""",0,"0""","0""","0""","0"""
+british-columbia,Fernie,Epic,May,"0""",0,"0""","0""","0""","0"""
+trentino,Folgàrida - Marilléva,Epic,October,6cm,1,14cm,33cm,17cm,4cm
+trentino,Folgàrida - Marilléva,Epic,November,24cm,1,22cm,62cm,35cm,14cm
+trentino,Folgàrida - Marilléva,Epic,December,48cm,3,41cm,110cm,57cm,30cm
+trentino,Folgàrida - Marilléva,Epic,January,78cm,3,47cm,127cm,67cm,38cm
+trentino,Folgàrida - Marilléva,Epic,February,35cm,2,43cm,142cm,55cm,20cm
+trentino,Folgàrida - Marilléva,Epic,March,,,,,,
+trentino,Folgàrida - Marilléva,Epic,April,,,,,,
+trentino,Folgàrida - Marilléva,Epic,May,,,,,,
+california,Heavenly,Epic,October,"15""",3,"18""","20""","21""","9"""
+california,Heavenly,Epic,November,"69""",10,"27""","45""","42""","17"""
+california,Heavenly,Epic,December,"61""",8,"39""","59""","50""","16"""
+california,Heavenly,Epic,January,"67""",7,"55""","80""","63""","19"""
+california,Heavenly,Epic,February,"46""",8,"57""","89""","64""","13"""
+california,Heavenly,Epic,March,"13""",3,"50""","76""","55""","7"""
+california,Heavenly,Epic,April,"2""",1,"5""","6""","6""","0"""
+california,Heavenly,Epic,May,"0""",0,"0""","0""","0""","0"""
+colorado,Keystone,Epic,October,"28""",8,"20""","19""","23""","7"""
+colorado,Keystone,Epic,November,"41""",13,"26""","26""","35""","8"""
+colorado,Keystone,Epic,December,"41""",13,"36""","36""","44""","9"""
+colorado,Keystone,Epic,January,"39""",14,"46""","46""","51""","8"""
+colorado,Keystone,Epic,February,"50""",14,"54""","53""","62""","8"""
+colorado,Keystone,Epic,March,"14""",4,"53""","46""","57""","6"""
+colorado,Keystone,Epic,April,"0""",0,"7""","7""","7""","0"""
+colorado,Keystone,Epic,May,"0""",0,"0""","0""","0""","0"""
+british-columbia,Kicking Horse,Epic,October,"16""",4,"9""","23""","12""","7"""
+british-columbia,Kicking Horse,Epic,November,"46""",17,"29""","56""","40""","10"""
+british-columbia,Kicking Horse,Epic,December,"43""",15,"36""","73""","44""","10"""
+british-columbia,Kicking Horse,Epic,January,"34""",13,"42""","86""","47""","9"""
+british-columbia,Kicking Horse,Epic,February,"44""",15,"43""","102""","47""","9"""
+british-columbia,Kicking Horse,Epic,March,"12""",6,"27""","90""","31""","4"""
+british-columbia,Kicking Horse,Epic,April,"0""",0,"0""","0""","0""","0"""
+british-columbia,Kicking Horse,Epic,May,"0""",0,"0""","0""","0""","0"""
+british-columbia,Kimberley,Epic,October,"3""",1,"0""","5""","0""","2"""
+british-columbia,Kimberley,Epic,November,"29""",11,"26""","32""","39""","8"""
+british-columbia,Kimberley,Epic,December,"30""",15,"35""","52""","42""","6"""
+british-columbia,Kimberley,Epic,January,"29""",12,"37""","60""","41""","8"""
+british-columbia,Kimberley,Epic,February,"25""",11,"36""","63""","42""","7"""
+british-columbia,Kimberley,Epic,March,"3""",2,"22""","35""","23""","2"""
+british-columbia,Kimberley,Epic,April,"0""",0,"0""","0""","0""","0"""
+british-columbia,Kimberley,Epic,May,"0""",0,"0""","0""","0""","0"""
+california,Kirkwood,Epic,October,"21""",3,"13""","19""","15""","9"""
+california,Kirkwood,Epic,November,"76""",9,"34""","39""","50""","18"""
+california,Kirkwood,Epic,December,"72""",8,"53""","63""","67""","17"""
+california,Kirkwood,Epic,January,"76""",8,"75""","88""","91""","17"""
+california,Kirkwood,Epic,February,"67""",9,"91""","105""","99""","15"""
+california,Kirkwood,Epic,March,"22""",3,"80""","94""","89""","10"""
+california,Kirkwood,Epic,April,"0""",0,"0""","0""","0""","0"""
+california,Kirkwood,Epic,May,"0""",0,"0""","0""","0""","0"""
+northern-alps,La Tania,Epic,October,13cm,2,10cm,29cm,16cm,7cm
+northern-alps,La Tania,Epic,November,49cm,4,31cm,69cm,49cm,17cm
+northern-alps,La Tania,Epic,December,53cm,5,72cm,129cm,101cm,22cm
+northern-alps,La Tania,Epic,January,49cm,6,105cm,160cm,125cm,19cm
+northern-alps,La Tania,Epic,February,36cm,5,119cm,174cm,141cm,13cm
+northern-alps,La Tania,Epic,March,,,,,,
+northern-alps,La Tania,Epic,April,,,,,,
+northern-alps,La Tania,Epic,May,,,,,,
+northern-alps,Les Menuires,Epic,October,37cm,3,21cm,32cm,24cm,23cm
+northern-alps,Les Menuires,Epic,November,84cm,6,54cm,114cm,84cm,26cm
+northern-alps,Les Menuires,Epic,December,81cm,8,86cm,162cm,115cm,28cm
+northern-alps,Les Menuires,Epic,January,65cm,7,101cm,198cm,121cm,22cm
+northern-alps,Les Menuires,Epic,February,52cm,6,100cm,216cm,125cm,19cm
+northern-alps,Les Menuires,Epic,March,,,,,,
+northern-alps,Les Menuires,Epic,April,,,,,,
+northern-alps,Les Menuires,Epic,May,,,,,,
+trentino,Madonna Di Campiglio,Epic,October,69cm,2,20cm,48cm,25cm,33cm
+trentino,Madonna Di Campiglio,Epic,November,49cm,2,34cm,95cm,53cm,29cm
+trentino,Madonna Di Campiglio,Epic,December,53cm,3,55cm,126cm,76cm,27cm
+trentino,Madonna Di Campiglio,Epic,January,78cm,4,90cm,167cm,101cm,31cm
+trentino,Madonna Di Campiglio,Epic,February,48cm,2,86cm,179cm,102cm,27cm
+trentino,Madonna Di Campiglio,Epic,March,,,,,,
+trentino,Madonna Di Campiglio,Epic,April,,,,,,
+trentino,Madonna Di Campiglio,Epic,May,,,,,,
+northern-alps,Meribel,Epic,October,29cm,2,11cm,30cm,15cm,16cm
+northern-alps,Meribel,Epic,November,79cm,5,38cm,99cm,58cm,20cm
+northern-alps,Meribel,Epic,December,75cm,5,64cm,145cm,92cm,26cm
+northern-alps,Meribel,Epic,January,47cm,6,82cm,165cm,99cm,16cm
+northern-alps,Meribel,Epic,February,51cm,5,79cm,180cm,99cm,17cm
+northern-alps,Meribel,Epic,March,,,,,,
+northern-alps,Meribel,Epic,April,,,,,,
+northern-alps,Meribel,Epic,May,,,,,,
+quebec,Mont-Sainte-Anne,Epic,October,"1""",1,"3""","6""","3""","1"""
+quebec,Mont-Sainte-Anne,Epic,November,"38""",15,"22""","23""","34""","9"""
+quebec,Mont-Sainte-Anne,Epic,December,"43""",18,"33""","46""","43""","9"""
+quebec,Mont-Sainte-Anne,Epic,January,"40""",15,"40""","40""","46""","8"""
+quebec,Mont-Sainte-Anne,Epic,February,"36""",12,"52""","48""","57""","9"""
+quebec,Mont-Sainte-Anne,Epic,March,"12""",5,"57""","45""","59""","6"""
+quebec,Mont-Sainte-Anne,Epic,April,"0""",0,"18""","18""","18""","0"""
+quebec,Mont-Sainte-Anne,Epic,May,"0""",0,"0""","0""","0""","0"""
+alberta,Nakiska,Epic,October,"18""",6,"10""","17""","15""","7"""
+alberta,Nakiska,Epic,November,"19""",10,"22""","29""","28""","5"""
+alberta,Nakiska,Epic,December,"15""",9,"29""","36""","33""","4"""
+alberta,Nakiska,Epic,January,"19""",10,"32""","39""","37""","6"""
+alberta,Nakiska,Epic,February,"22""",11,"37""","46""","39""","6"""
+alberta,Nakiska,Epic,March,"15""",7,"24""","43""","28""","6"""
+alberta,Nakiska,Epic,April,"0""",0,"6""","5""","6""","0"""
+alberta,Nakiska,Epic,May,"0""",0,"0""","0""","0""","0"""
+valais,Nendaz,Epic,October,7cm,0,8cm,48cm,11cm,7cm
+valais,Nendaz,Epic,November,72cm,4,31cm,119cm,40cm,33cm
+valais,Nendaz,Epic,December,74cm,5,37cm,150cm,50cm,25cm
+valais,Nendaz,Epic,January,55cm,4,45cm,190cm,58cm,24cm
+valais,Nendaz,Epic,February,41cm,3,38cm,205cm,49cm,20cm
+valais,Nendaz,Epic,March,,,,,,
+valais,Nendaz,Epic,April,,,,,,
+valais,Nendaz,Epic,May,,,,,,
+california,Northstar California,Epic,October,"21""",3,"11""","18""","11""","9"""
+california,Northstar California,Epic,November,"78""",10,"20""","39""","32""","21"""
+california,Northstar California,Epic,December,"73""",9,"29""","63""","39""","17"""
+california,Northstar California,Epic,January,"73""",9,"31""","83""","37""","17"""
+california,Northstar California,Epic,February,"61""",10,"31""","96""","40""","14"""
+california,Northstar California,Epic,March,"14""",3,"27""","78""","30""","6"""
+california,Northstar California,Epic,April,"0""",0,"0""","0""","0""","0"""
+california,Northstar California,Epic,May,"0""",0,"0""","0""","0""","0"""
+vermont,Okemo,Epic,October,"8""",2,"11""","14""","13""","5"""
+vermont,Okemo,Epic,November,"27""",7,"17""","22""","22""","9"""
+vermont,Okemo,Epic,December,"24""",8,"20""","29""","23""","8"""
+vermont,Okemo,Epic,January,"33""",9,"26""","35""","29""","10"""
+vermont,Okemo,Epic,February,"21""",6,"28""","37""","30""","7"""
+vermont,Okemo,Epic,March,"4""",1,"20""","26""","21""","3"""
+vermont,Okemo,Epic,April,"0""",0,"0""","0""","0""","0"""
+vermont,Okemo,Epic,May,"0""",0,"0""","0""","0""","0"""
+northern-alps,Orelle,Epic,October,7cm,1,22cm,24cm,27cm,4cm
+northern-alps,Orelle,Epic,November,89cm,6,73cm,118cm,114cm,23cm
+northern-alps,Orelle,Epic,December,91cm,7,117cm,194cm,150cm,27cm
+northern-alps,Orelle,Epic,January,75cm,6,143cm,231cm,161cm,24cm
+northern-alps,Orelle,Epic,February,64cm,6,151cm,256cm,171cm,24cm
+northern-alps,Orelle,Epic,March,,,,,,
+northern-alps,Orelle,Epic,April,,,,,,
+northern-alps,Orelle,Epic,May,,,,,,
+utah,Park City,Epic,October,"15""",3,"20""","13""","22""","8"""
+utah,Park City,Epic,November,"62""",13,"27""","31""","39""","12"""
+utah,Park City,Epic,December,"57""",12,"40""","51""","49""","14"""
+utah,Park City,Epic,January,"54""",12,"54""","66""","61""","11"""
+utah,Park City,Epic,February,"44""",10,"59""","75""","66""","10"""
+utah,Park City,Epic,March,"8""",2,"50""","58""","56""","5"""
+utah,Park City,Epic,April,"0""",0,"0""","0""","0""","0"""
+utah,Park City,Epic,May,"0""",0,"0""","0""","0""","0"""
+trentino,Pontedilegno - Tonale,Epic,October,32cm,1,29cm,118cm,37cm,16cm
+trentino,Pontedilegno - Tonale,Epic,November,30cm,1,47cm,236cm,51cm,25cm
+trentino,Pontedilegno - Tonale,Epic,December,34cm,2,58cm,285cm,64cm,22cm
+trentino,Pontedilegno - Tonale,Epic,January,72cm,3,73cm,330cm,78cm,35cm
+trentino,Pontedilegno - Tonale,Epic,February,42cm,2,68cm,345cm,78cm,19cm
+trentino,Pontedilegno - Tonale,Epic,March,,,,,,
+trentino,Pontedilegno - Tonale,Epic,April,,,,,,
+trentino,Pontedilegno - Tonale,Epic,May,,,,,,
+northern-alps,St Martin de Belleville,Epic,October,13cm,1,10cm,26cm,12cm,11cm
+northern-alps,St Martin de Belleville,Epic,November,66cm,5,36cm,112cm,53cm,19cm
+northern-alps,St Martin de Belleville,Epic,December,71cm,7,51cm,149cm,69cm,26cm
+northern-alps,St Martin de Belleville,Epic,January,64cm,6,65cm,177cm,79cm,21cm
+northern-alps,St Martin de Belleville,Epic,February,41cm,5,67cm,194cm,125cm,18cm
+northern-alps,St Martin de Belleville,Epic,March,,,,,,
+northern-alps,St Martin de Belleville,Epic,April,,,,,,
+northern-alps,St Martin de Belleville,Epic,May,,,,,,
+utah,Snowbasin,Epic,October,"12""",2,"20""","17""","23""","6"""
+utah,Snowbasin,Epic,November,"66""",12,"35""","38""","54""","16"""
+utah,Snowbasin,Epic,December,"60""",12,"57""","58""","73""","14"""
+utah,Snowbasin,Epic,January,"64""",12,"75""","76""","89""","12"""
+utah,Snowbasin,Epic,February,"42""",10,"81""","85""","93""","10"""
+utah,Snowbasin,Epic,March,"13""",3,"66""","66""","83""","6"""
+utah,Snowbasin,Epic,April,"0""",0,"0""","0""","0""","0"""
+utah,Snowbasin,Epic,May,"0""",0,"0""","0""","0""","0"""
+washington,Stevens Pass,Epic,October,"14""",3,"11""","13""","13""","7"""
+washington,Stevens Pass,Epic,November,"95""",14,"41""","52""","59""","21"""
+washington,Stevens Pass,Epic,December,"81""",13,"64""","83""","79""","16"""
+washington,Stevens Pass,Epic,January,"86""",14,"83""","104""","103""","16"""
+washington,Stevens Pass,Epic,February,"47""",11,"95""","122""","105""","10"""
+washington,Stevens Pass,Epic,March,"18""",4,"77""","94""","85""","8"""
+washington,Stevens Pass,Epic,April,"0""",0,"0""","0""","0""","0"""
+washington,Stevens Pass,Epic,May,"0""",0,"0""","0""","0""","0"""
+quebec,Stoneham Mountain,Epic,October,"1""",1,"3""","3""","3""","1"""
+quebec,Stoneham Mountain,Epic,November,"33""",14,"11""","10""","17""","6"""
+quebec,Stoneham Mountain,Epic,December,"45""",15,"21""","21""","28""","8"""
+quebec,Stoneham Mountain,Epic,January,"38""",13,"32""","32""","39""","8"""
+quebec,Stoneham Mountain,Epic,February,"19""",8,"35""","35""","41""","6"""
+quebec,Stoneham Mountain,Epic,March,"2""",1,"23""","20""","24""","2"""
+quebec,Stoneham Mountain,Epic,April,"0""",0,"0""","0""","0""","0"""
+quebec,Stoneham Mountain,Epic,May,"0""",0,"0""","0""","0""","0"""
+vermont,Stowe,Epic,October,"13""",3,"16""","29""","17""","6"""
+vermont,Stowe,Epic,November,"44""",13,"18""","34""","20""","8"""
+vermont,Stowe,Epic,December,"50""",14,"20""","40""","23""","10"""
+vermont,Stowe,Epic,January,"56""",14,"27""","52""","30""","11"""
+vermont,Stowe,Epic,February,"45""",11,"30""","57""","33""","13"""
+vermont,Stowe,Epic,March,"14""",4,"22""","44""","26""","6"""
+vermont,Stowe,Epic,April,"0""",0,"0""","0""","0""","0"""
+vermont,Stowe,Epic,May,"0""",0,"0""","0""","0""","0"""
+idaho,Sun Valley,Epic,October,"6""",2,"17""","21""","18""","3"""
+idaho,Sun Valley,Epic,November,"54""",12,"26""","40""","35""","11"""
+idaho,Sun Valley,Epic,December,"36""",10,"43""","61""","53""","9"""
+idaho,Sun Valley,Epic,January,"42""",10,"55""","78""","64""","9"""
+idaho,Sun Valley,Epic,February,"23""",8,"47""","79""","55""","7"""
+idaho,Sun Valley,Epic,March,"6""",3,"30""","56""","39""","3"""
+idaho,Sun Valley,Epic,April,"0""",0,"0""","0""","0""","0"""
+idaho,Sun Valley,Epic,May,"0""",0,"0""","0""","0""","0"""
+valais,Thyon 2000,Epic,October,5cm,0,6cm,34cm,9cm,5cm
+valais,Thyon 2000,Epic,November,37cm,2,30cm,122cm,34cm,21cm
+valais,Thyon 2000,Epic,December,70cm,5,32cm,152cm,41cm,27cm
+valais,Thyon 2000,Epic,January,55cm,4,37cm,191cm,42cm,24cm
+valais,Thyon 2000,Epic,February,43cm,2,31cm,206cm,39cm,21cm
+valais,Thyon 2000,Epic,March,,,,,,
+valais,Thyon 2000,Epic,April,,,,,,
+valais,Thyon 2000,Epic,May,,,,,,
+colorado,Vail,Epic,October,"23""",6,"21""","17""","24""","6"""
+colorado,Vail,Epic,November,"55""",15,"29""","29""","40""","9"""
+colorado,Vail,Epic,December,"50""",13,"43""","42""","92""","10"""
+colorado,Vail,Epic,January,"48""",13,"54""","54""","63""","10"""
+colorado,Vail,Epic,February,"43""",11,"61""","61""","72""","9"""
+colorado,Vail,Epic,March,"21""",7,"50""","47""","60""","8"""
+colorado,Vail,Epic,April,"0""",0,"6""","6""","6""","0"""
+colorado,Vail,Epic,May,"0""",0,"0""","0""","0""","0"""
+northern-alps,Val Thorens,Epic,October,77cm,6,48cm,68cm,67cm,34cm
+northern-alps,Val Thorens,Epic,November,126cm,9,93cm,139cm,135cm,26cm
+northern-alps,Val Thorens,Epic,December,145cm,11,241cm,187cm,3685cm,32cm
+northern-alps,Val Thorens,Epic,January,114cm,11,160cm,238cm,186cm,25cm
+northern-alps,Val Thorens,Epic,February,107cm,9,173cm,266cm,200cm,29cm
+northern-alps,Val Thorens,Epic,March,,,,,,
+northern-alps,Val Thorens,Epic,April,,,,,,
+northern-alps,Val Thorens,Epic,May,,,,,,
+valais,Verbier,Epic,October,32cm,3,10cm,38cm,15cm,15cm
+valais,Verbier,Epic,November,114cm,7,31cm,98cm,56cm,28cm
+valais,Verbier,Epic,December,110cm,7,48cm,157cm,75cm,35cm
+valais,Verbier,Epic,January,93cm,8,64cm,217cm,84cm,25cm
+valais,Verbier,Epic,February,78cm,6,62cm,244cm,86cm,24cm
+valais,Verbier,Epic,March,,,,,,
+valais,Verbier,Epic,April,,,,,,
+valais,Verbier,Epic,May,,,,,,
+valais,Veysonnaz - Printze,Epic,October,9cm,1,9cm,64cm,10cm,7cm
+valais,Veysonnaz - Printze,Epic,November,54cm,3,29cm,119cm,36cm,27cm
+valais,Veysonnaz - Printze,Epic,December,73cm,5,32cm,152cm,42cm,28cm
+valais,Veysonnaz - Printze,Epic,January,55cm,4,37cm,191cm,42cm,24cm
+valais,Veysonnaz - Printze,Epic,February,43cm,2,31cm,206cm,39cm,21cm
+valais,Veysonnaz - Printze,Epic,March,,,,,,
+valais,Veysonnaz - Printze,Epic,April,,,,,,
+valais,Veysonnaz - Printze,Epic,May,,,,,,
+british-columbia,Whistler Blackcomb,Epic,October,"40""",8,"18""","17""","21""","9"""
+british-columbia,Whistler Blackcomb,Epic,November,"77""",19,"34""","51""","45""","14"""
+british-columbia,Whistler Blackcomb,Epic,December,"83""",16,"49""","79""","63""","19"""
+british-columbia,Whistler Blackcomb,Epic,January,"45""",14,"71""","91""","79""","11"""
+british-columbia,Whistler Blackcomb,Epic,February,"61""",15,"82""","104""","92""","14"""
+british-columbia,Whistler Blackcomb,Epic,March,"23""",10,"74""","74""","82""","5"""
+british-columbia,Whistler Blackcomb,Epic,April,"3""",1,"36""","43""","43""","2"""
+british-columbia,Whistler Blackcomb,Epic,May,"0""",0,"0""","3""","0""","0"""
+minnesota,Afton Alps,Epic,October,"1""",1,"6""","14""","7""","0"""
+minnesota,Afton Alps,Epic,November,"12""",5,"14""","29""","17""","5"""
+minnesota,Afton Alps,Epic,December,"10""",4,"22""","44""","28""","5"""
+minnesota,Afton Alps,Epic,January,"12""",4,"31""","51""","33""","5"""
+minnesota,Afton Alps,Epic,February,"6""",2,"29""","47""","31""","3"""
+minnesota,Afton Alps,Epic,March,"1""",0,"8""","5""","9""","1"""
+minnesota,Afton Alps,Epic,April,"0""",0,"0""","0""","0""","0"""
+minnesota,Afton Alps,Epic,May,"0""",0,"0""","0""","0""","0"""
+trentino,Folgaria - Lavarone,Epic,October,26cm,1,20cm,27cm,25cm,19cm
+trentino,Folgaria - Lavarone,Epic,November,35cm,2,32cm,50cm,41cm,20cm
+trentino,Folgaria - Lavarone,Epic,December,50cm,3,42cm,65cm,58cm,23cm
+trentino,Folgaria - Lavarone,Epic,January,81cm,4,59cm,105cm,69cm,33cm
+trentino,Folgaria - Lavarone,Epic,February,26cm,1,54cm,102cm,59cm,16cm
+trentino,Folgaria - Lavarone,Epic,March,,,,,,
+trentino,Folgaria - Lavarone,Epic,April,,,,,,
+trentino,Folgaria - Lavarone,Epic,May,,,,,,
+trentino,Paganella Ski,Epic,October,16cm,1,8cm,30cm,9cm,9cm
+trentino,Paganella Ski,Epic,November,32cm,1,133cm,65cm,143cm,17cm
+trentino,Paganella Ski,Epic,December,52cm,2,40cm,93cm,50cm,18cm
+trentino,Paganella Ski,Epic,January,80cm,4,45cm,155cm,54cm,32cm
+trentino,Paganella Ski,Epic,February,51cm,3,29cm,162cm,43cm,29cm
+trentino,Paganella Ski,Epic,March,,,,,,
+trentino,Paganella Ski,Epic,April,,,,,,
+trentino,Paganella Ski,Epic,May,,,,,,
+colorado,Crested Butte,Epic,October,"13""",3,"20""","16""","23""","5"""
+colorado,Crested Butte,Epic,November,"56""",13,"32""","32""","47""","11"""
+colorado,Crested Butte,Epic,December,"45""",12,"46""","45""","56""","10"""
+colorado,Crested Butte,Epic,January,"44""",12,"56""","56""","64""","11"""
+colorado,Crested Butte,Epic,February,"35""",9,"64""","63""","73""","9"""
+colorado,Crested Butte,Epic,March,"5""",2,"50""","38""","55""","2"""
+colorado,Crested Butte,Epic,April,"0""",0,"0""","0""","0""","0"""
+colorado,Crested Butte,Epic,May,"0""",0,"0""","0""","0""","0"""
+trentino,Monte Bondone,Epic,October,2cm,0,7cm,21cm,8cm,2cm
+trentino,Monte Bondone,Epic,November,21cm,1,29cm,58cm,38cm,16cm
+trentino,Monte Bondone,Epic,December,14cm,1,35cm,70cm,43cm,8cm
+trentino,Monte Bondone,Epic,January,60cm,3,49cm,89cm,63cm,40cm
+trentino,Monte Bondone,Epic,February,14cm,1,51cm,97cm,63cm,11cm
+trentino,Monte Bondone,Epic,March,,,,,,
+trentino,Monte Bondone,Epic,April,,,,,,
+trentino,Monte Bondone,Epic,May,,,,,,
+new-hampshire,Mount Sunapee,Epic,October,"1""",0,"5""","11""","6""","1"""
+new-hampshire,Mount Sunapee,Epic,November,"23""",6,"12""","19""","16""","7"""
+new-hampshire,Mount Sunapee,Epic,December,"19""",6,"18""","27""","22""","7"""
+new-hampshire,Mount Sunapee,Epic,January,"31""",7,"24""","33""","27""","9"""
+new-hampshire,Mount Sunapee,Epic,February,"16""",4,"26""","35""","28""","6"""
+new-hampshire,Mount Sunapee,Epic,March,"3""",1,"15""","23""","19""","2"""
+new-hampshire,Mount Sunapee,Epic,April,"0""",0,"0""","0""","0""","0"""
+new-hampshire,Mount Sunapee,Epic,May,"0""",0,"0""","0""","0""","0"""
+michigan,Mt. Brighton,Epic,October,"1""",0,"9""","10""","10""","0"""
+michigan,Mt. Brighton,Epic,November,"6""",3,"21""","22""","24""","2"""
+michigan,Mt. Brighton,Epic,December,"12""",5,"28""","31""","35""","4"""
+michigan,Mt. Brighton,Epic,January,"16""",6,"32""","38""","35""","6"""
+michigan,Mt. Brighton,Epic,February,"5""",2,"28""","30""","32""","3"""
+michigan,Mt. Brighton,Epic,March,"0""",0,"2""","1""","2""","0"""
+michigan,Mt. Brighton,Epic,April,"0""",0,"0""","0""","0""","0"""
+michigan,Mt. Brighton,Epic,May,"0""",0,"0""","0""","0""","0"""
+trentino,Pejo,Epic,October,6cm,1,2cm,26cm,2cm,5cm
+trentino,Pejo,Epic,November,21cm,1,23cm,103cm,34cm,10cm
+trentino,Pejo,Epic,December,49cm,2,40cm,131cm,49cm,19cm
+trentino,Pejo,Epic,January,45cm,3,52cm,153cm,59cm,19cm
+trentino,Pejo,Epic,February,30cm,1,52cm,156cm,58cm,21cm
+trentino,Pejo,Epic,March,,,,,,
+trentino,Pejo,Epic,April,,,,,,
+trentino,Pejo,Epic,May,,,,,,
+trentino,Pinzolo,Epic,October,6cm,1,2cm,14cm,3cm,6cm
+trentino,Pinzolo,Epic,November,27cm,1,21cm,64cm,27cm,22cm
+trentino,Pinzolo,Epic,December,28cm,1,24cm,71cm,25cm,24cm
+trentino,Pinzolo,Epic,January,42cm,2,31cm,107cm,34cm,22cm
+trentino,Pinzolo,Epic,February,24cm,1,31cm,126cm,35cm,18cm
+trentino,Pinzolo,Epic,March,,,,,,
+trentino,Pinzolo,Epic,April,,,,,,
+trentino,Pinzolo,Epic,May,,,,,,
+colorado,Telluride,Epic,October,"17""",3,"17""","17""","20""","6"""
+colorado,Telluride,Epic,November,"52""",12,"30""","31""","40""","11"""
+colorado,Telluride,Epic,December,"45""",11,"41""","43""","50""","10"""
+colorado,Telluride,Epic,January,"53""",11,"51""","53""","61""","14"""
+colorado,Telluride,Epic,February,"48""",10,"61""","63""","71""","13"""
+colorado,Telluride,Epic,March,"4""",1,"58""","43""","60""","3"""
+colorado,Telluride,Epic,April,"0""",0,"0""","0""","0""","0"""
+colorado,Telluride,Epic,May,"0""",0,"0""","0""","0""","0"""
+wisconsin,Wilmot Mountain,Epic,October,"0""",0,"8""","11""","9""","0"""
+wisconsin,Wilmot Mountain,Epic,November,"4""",2,"14""","28""","20""","1"""
+wisconsin,Wilmot Mountain,Epic,December,"10""",3,"20""","39""","46""","5"""
+wisconsin,Wilmot Mountain,Epic,January,"8""",3,"25""","45""","29""","4"""
+wisconsin,Wilmot Mountain,Epic,February,"3""",2,"20""","38""","30""","2"""
+wisconsin,Wilmot Mountain,Epic,March,"0""",0,"0""","0""","0""","0"""
+wisconsin,Wilmot Mountain,Epic,April,"0""",0,"0""","0""","0""","0"""
+wisconsin,Wilmot Mountain,Epic,May,"0""",0,"0""","0""","0""","0"""

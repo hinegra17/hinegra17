@@ -1,0 +1,104 @@
+age,class,gpa,race,gender,familyinc,mothereduc,fathereduc,sat,highgpa,major,study,credits,hourswork,wwuemploy,wage,empurp
+22,Senior,3.94,White,Male,"Over $200,000",Post Graduate,Post Graduate,1280.0,3.2,business,15-20 hours,13-17,0-10 hours,Yes,13.5,Choice
+22,Senior,3.7,White,Female,"$75,000-$99,999","Some College, no degree","Some College, no degree",1100.0,3.86,humanities,15-20 hours,13-17,30-40 hours,Yes,16.7,Need
+22,Senior,3.89,White,Female,"$100,000-$200,000",Associates Degree (2-year degree),Post Graduate,1540.0,3.7,science,15-20 hours,13-17,0 hours,,,
+25,Junior,3.0,mix,Female,"$75,000-$99,999",Post Graduate,"Some College, no degree",,2.7,humanities,10-15 hours,13-17,10-20 hours,No,13.69,Choice
+24,Senior,2.9,White,Male,"$100,000-$200,000",Associates Degree (2-year degree),Associates Degree (2-year degree),,3.5,science,5-10 hours,8-12,10-20 hours,Yes,13.5,Choice
+21,Junior,3.15,White,Male,"Over $200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1080.0,3.3,humanities,Less than 5 hours,13-17,30-40 hours,No,15.0,Choice
+20,Sophomore,3.6,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1250.0,2.5,science,10-15 hours,13-17,0 hours,,,
+22,Senior,3.9,White,Male,"$35,000-$49,999",Associates Degree (2-year degree),Bachelorâ€™s Degree (4-year degree),2100.0,3.4,envir,5-10 hours,13-17,10-20 hours,Yes,13.69,Need
+20,Sophomore,3.27,White,Female,"Over $200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1090.0,3.25,envir,5-10 hours,13-17,10-20 hours,Yes,13.29,Need
+24,Senior,3.9,mix,Male,"$35,000-$49,999",Associates Degree (2-year degree),Associates Degree (2-year degree),,3.3,business,10-15 hours,8-12,0 hours,,,
+21,Junior,3.37,White,Female,"$35,000-$49,999",Associates Degree (2-year degree),Bachelorâ€™s Degree (4-year degree),,3.8,humanities,20-25 hours,13-17,10-20 hours,No,15.0,Choice
+21,Senior,3.75,White,Male,"$100,000-$200,000",Post Graduate,Post Graduate,1400.0,3.8,humanities,5-10 hours,13-17,10-20 hours,Yes,14.0,Choice
+24,Senior,3.75,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),,2.2,science,More than 25 hours,8-12,0 hours,,,
+20,Sophomore,3.95,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,1330.0,3.9,education,5-10 hours,13-17,10-20 hours,No,8.0,Choice
+22,Senior,3.76,Asian,Male,"$50,000-$74,999",Less than a High School Diploma,Less than a High School Diploma,1256.0,3.89,business,5-10 hours,13-17,30-40 hours,No,55.0,Choice
+27,Senior,3.22,White,Female,"Less than $35,000",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),,2.9,humanities,5-10 hours,13-17,30-40 hours,Yes,15.0,Need
+20,Sophomore,3.85,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1480.0,3.6,science,20-25 hours,13-17,0 hours,,,
+20,Junior,2.43,mix,Male,"$75,000-$99,999",Bachelorâ€™s Degree (4-year degree),Associates Degree (2-year degree),,3.6,other,Less than 5 hours,13-17,0 hours,,,
+19,Freshman,3.94,White,Male,"$100,000-$200,000",Post Graduate,Bachelorâ€™s Degree (4-year degree),1240.0,3.96,,15-20 hours,13-17,0 hours,,,
+20,Junior,3.77,Asian,Female,"$100,000-$200,000",High School Degree or Equivalent (e.g. GED),Bachelorâ€™s Degree (4-year degree),,3.9,art,20-25 hours,13-17,0 hours,,,
+21,Junior,3.82,White,,"$100,000-$200,000",Post Graduate,High School Degree or Equivalent (e.g. GED),1350.0,3.7,humanities,Less than 5 hours,13-17,10-20 hours,Yes,10.0,Need
+21,Senior,3.18,mix,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),High School Degree or Equivalent (e.g. GED),1190.0,3.4,science,15-20 hours,8-12,10-20 hours,No,15.0,Need
+21,Senior,3.89,White,Female,"Over $200,000",Post Graduate,Post Graduate,1460.0,3.9,humanities,More than 25 hours,13-17,0 hours,,,
+19,Sophomore,3.97,White,Male,"$100,000-$200,000",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1350.0,3.7,business,5-10 hours,13-17,30-40 hours,No,20.0,Need
+21,Junior,2.94,mix,Female,"$75,000-$99,999",Associates Degree (2-year degree),"Some College, no degree",,3.6,humanities,20-25 hours,13-17,10-20 hours,Yes,13.5,Need
+21,Senior,3.69,White,Female,"Over $200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,1600.0,3.84,science,5-10 hours,13-17,0 hours,,,
+22,Senior,2.8,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1600.0,3.5,business,5-10 hours,13-17,0 hours,,,
+24,Senior,3.65,White,Male,"Over $200,000","Some College, no degree",Bachelorâ€™s Degree (4-year degree),,3.0,business,10-15 hours,13-17,0 hours,,,
+21,Junior,3.67,White,Male,"$100,000-$200,000","Some College, no degree",Post Graduate,1300.0,3.9,humanities,5-10 hours,13-17,0 hours,,,
+23,Senior,3.75,White,Male,"$50,000-$74,999","Some College, no degree",High School Degree or Equivalent (e.g. GED),,2.9,business,10-15 hours,13-17,0 hours,,,
+22,Senior,3.02,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1280.0,3.4,science,15-20 hours,13-17,10-20 hours,Yes,14.0,Need
+20,Junior,3.58,White,Female,"$100,000-$200,000",Post Graduate,Post Graduate,1130.0,3.88,business,10-15 hours,13-17,10-20 hours,No,16.0,Choice
+22,Senior,3.88,White,,"$100,000-$200,000",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1310.0,3.1,humanities,5-10 hours,13-17,10-20 hours,No,20.0,Choice
+22,Senior,2.8,White,Male,"$75,000-$99,999",Post Graduate,Post Graduate,,2.6,envir,Less than 5 hours,13-17,10-20 hours,No,20.0,Need
+20,Junior,4.0,White,Female,"Over $200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,1370.0,4.2,humanities,15-20 hours,13-17,0-10 hours,No,13.7,Need
+21,Senior,3.77,White,Female,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),High School Degree or Equivalent (e.g. GED),,3.9,humanities,15-20 hours,13-17,10-20 hours,No,14.0,Need
+23,Senior,3.01,Asian,Female,"Less than $35,000",High School Degree or Equivalent (e.g. GED),"Some College, no degree",,3.86,art,10-15 hours,8-12,30-40 hours,Yes,15.0,Need
+21,Senior,3.21,White,Female,"$35,000-$49,999","Some College, no degree",Bachelorâ€™s Degree (4-year degree),1370.0,3.8,science,5-10 hours,13-17,30-40 hours,No,14.5,Need
+26,Senior,3.4,White,Female,"$35,000-$49,999",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),,2.9,education,5-10 hours,13-17,10-20 hours,No,25.0,Need
+21,Senior,3.81,White,Male,"$75,000-$99,999",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1170.0,4.0,humanities,5-10 hours,13-17,0 hours,,,
+24,Senior,3.39,White,Female,"$35,000-$49,999","Some College, no degree",Bachelorâ€™s Degree (4-year degree),1040.0,3.25,humanities,5-10 hours,13-17,10-20 hours,No,15.0,Need
+20,Sophomore,3.32,mix,Female,"Less than $35,000",Bachelorâ€™s Degree (4-year degree),"Some College, no degree",1140.0,3.54,science,5-10 hours,13-17,0-10 hours,Yes,15.0,Need
+23,Senior,2.74,White,Male,"Over $200,000","Some College, no degree",Associates Degree (2-year degree),1647.0,3.8,business,20-25 hours,More than 18,0 hours,,,
+20,Sophomore,3.86,White,Male,"$100,000-$200,000",Post Graduate,Post Graduate,1500.0,3.98,humanities,10-15 hours,13-17,0 hours,,,
+21,Junior,3.56,mix,,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1350.0,2.8,business,5-10 hours,13-17,10-20 hours,Yes,16.25,Choice
+21,Junior,3.2,White,Male,"$50,000-$74,999",Post Graduate,Post Graduate,1180.0,3.5,business,More than 25 hours,13-17,0 hours,,,
+21,Junior,3.47,White,Female,"$35,000-$49,999","Some College, no degree",Bachelorâ€™s Degree (4-year degree),950.0,3.5,art,15-20 hours,13-17,0-10 hours,Yes,13.0,Need
+21,Senior,3.96,White,Female,"$100,000-$200,000",Post Graduate,Bachelorâ€™s Degree (4-year degree),1400.0,4.0,humanities,5-10 hours,13-17,10-20 hours,Yes,15.0,Choice
+20,Senior,3.22,White,Female,"$100,000-$200,000",High School Degree or Equivalent (e.g. GED),Bachelorâ€™s Degree (4-year degree),1200.0,3.4,humanities,Less than 5 hours,13-17,0 hours,,,
+21,Junior,3.34,White,Female,"$35,000-$49,999",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1378.0,3.5,humanities,15-20 hours,More than 18,10-20 hours,Yes,13.69,Need
+20,Senior,3.61,White,Female,"Less than $35,000",Post Graduate,Post Graduate,1250.0,3.59,business,Less than 5 hours,More than 18,10-20 hours,No,15.0,Choice
+28,Sophomore,3.11,Black or African American,,"Less than $35,000",Associates Degree (2-year degree),High School Degree or Equivalent (e.g. GED),,3.0,science,More than 25 hours,8-12,0 hours,,,
+20,Senior,3.99,White,Female,"Less than $35,000",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1480.0,3.9,humanities,10-15 hours,13-17,More than 40 hours,Yes,14.0,Need
+19,Sophomore,3.94,White,Female,"$75,000-$99,999",Bachelorâ€™s Degree (4-year degree),Post Graduate,1340.0,3.97,envir,5-10 hours,13-17,0-10 hours,Yes,13.49,Choice
+23,Senior,3.57,White,,"$100,000-$200,000",Post Graduate,Post Graduate,1340.0,3.8,art,More than 25 hours,13-17,0-10 hours,No,13.5,Choice
+27,Junior,2.7,White,Male,"Less than $35,000",High School Degree or Equivalent (e.g. GED),Less than a High School Diploma,,3.0,envir,More than 25 hours,13-17,10-20 hours,No,20.0,Need
+20,Senior,3.72,White,Female,"$100,000-$200,000",Post Graduate,Bachelorâ€™s Degree (4-year degree),1420.0,3.92,education,10-15 hours,13-17,20-30 hours,Yes,15.9,Need
+20,Junior,3.88,White,Male,"$100,000-$200,000",Post Graduate,Bachelorâ€™s Degree (4-year degree),1250.0,3.5,science,More than 25 hours,13-17,0-10 hours,No,15.0,Choice
+21,Senior,3.98,mix,Female,"Less than $35,000",Less than a High School Diploma,Less than a High School Diploma,,3.8,science,More than 25 hours,More than 18,More than 40 hours,No,13.0,Need
+23,Senior,3.56,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),"Some College, no degree",,3.6,humanities,15-20 hours,13-17,20-30 hours,Yes,6.25,Need
+20,Sophomore,3.91,White,Female,"$75,000-$99,999",Associates Degree (2-year degree),Post Graduate,34.0,4.0,business,10-15 hours,13-17,20-30 hours,Yes,30.0,Need
+23,Senior,2.74,White,Male,"Over $200,000","Some College, no degree",Associates Degree (2-year degree),1647.0,3.8,business,20-25 hours,More than 18,0 hours,,,
+22,Senior,3.0,Hispanic or Latino/a,Male,"$50,000-$74,999",Less than a High School Diploma,Associates Degree (2-year degree),1050.0,2.7,humanities,10-15 hours,13-17,10-20 hours,No,17.5,Need
+20,Senior,3.35,White,Male,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),,3.9,science,5-10 hours,13-17,0 hours,,,
+22,Junior,4.0,White,Male,"$75,000-$99,999","Some College, no degree",Bachelorâ€™s Degree (4-year degree),1270.0,3.6,business,15-20 hours,13-17,0-10 hours,Yes,14.0,Choice
+21,Senior,2.73,Hispanic or Latino/a,Female,"$50,000-$74,999",Less than a High School Diploma,Less than a High School Diploma,,3.2,humanities,5-10 hours,13-17,20-30 hours,No,20.0,Need
+21,Junior,2.87,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),"Some College, no degree",1100.0,3.2,humanities,5-10 hours,13-17,20-30 hours,No,19.0,Choice
+21,Senior,3.38,White,Male,"Over $200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1400.0,3.4,business,5-10 hours,13-17,0 hours,,,
+21,Junior,2.61,White,Male,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1220.0,3.12,business,Less than 5 hours,13-17,20-30 hours,No,20.0,Need
+22,Senior,2.21,Asian,Female,"Over $200,000",Bachelorâ€™s Degree (4-year degree),High School Degree or Equivalent (e.g. GED),1400.0,3.7,science,Less than 5 hours,13-17,0-10 hours,Yes,15.0,Choice
+22,Senior,3.46,White,Female,"$100,000-$200,000","Some College, no degree","Some College, no degree",980.0,3.4,humanities,10-15 hours,13-17,0-10 hours,No,15.0,Choice
+22,Senior,3.73,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1400.0,3.68,humanities,10-15 hours,13-17,0 hours,,,
+20,Junior,4.0,White,Male,"$100,000-$200,000",Post Graduate,Post Graduate,1370.0,4.0,science,20-25 hours,13-17,0 hours,,,
+23,Senior,3.3,White,Male,"$50,000-$74,999",Associates Degree (2-year degree),High School Degree or Equivalent (e.g. GED),,2.2,humanities,5-10 hours,8-12,20-30 hours,No,13.5,Need
+21,Senior,3.82,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),,3.98,business,15-20 hours,13-17,10-20 hours,No,18.0,Choice
+21,Senior,3.37,mix,Female,"Less than $35,000",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1190.0,,business,Less than 5 hours,More than 18,10-20 hours,Yes,13.5,Need
+21,Junior,3.82,White,Female,"Over $200,000",Post Graduate,Post Graduate,1310.0,3.92,humanities,10-15 hours,13-17,10-20 hours,Yes,19.0,Choice
+20,Junior,3.54,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,,3.84,envir,More than 25 hours,13-17,0 hours,,,
+22,Senior,3.08,mix,Male,"$100,000-$200,000",Less than a High School Diploma,High School Degree or Equivalent (e.g. GED),,2.7,humanities,Less than 5 hours,13-17,0 hours,,,
+20,Senior,3.0,White,Female,"Over $200,000",Post Graduate,Post Graduate,1460.0,,business,10-15 hours,8-12,0 hours,,,
+22,Junior,3.45,Asian,Female,"$35,000-$49,999",High School Degree or Equivalent (e.g. GED),Associates Degree (2-year degree),,3.0,business,5-10 hours,8-12,10-20 hours,Yes,14.0,Choice
+21,Junior,3.95,White,Female,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1460.0,4.0,humanities,15-20 hours,13-17,0-10 hours,Yes,13.5,Need
+22,Senior,3.34,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,1200.0,3.25,business,5-10 hours,13-17,10-20 hours,No,15.0,Choice
+21,Senior,3.37,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1310.0,3.5,business,10-15 hours,13-17,10-20 hours,No,15.0,Need
+22,Senior,3.35,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1340.0,3.7,humanities,5-10 hours,13-17,10-20 hours,Yes,13.5,Need
+20,Junior,2.75,White,Female,"$100,000-$200,000","Some College, no degree",High School Degree or Equivalent (e.g. GED),,3.2,business,10-15 hours,8-12,More than 40 hours,No,30.0,Need
+22,Senior,3.18,White,Female,"$100,000-$200,000",Post Graduate,,1350.0,3.8,business,15-20 hours,13-17,20-30 hours,No,15.0,Choice
+18,Freshman,3.6,White,Nonbinary ,"$50,000-$74,999",Associates Degree (2-year degree),Bachelorâ€™s Degree (4-year degree),1064.0,3.5,business,10-15 hours,13-17,0 hours,,,
+22,Senior,3.16,White,Female,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),,3.7,business,10-15 hours,8-12,20-30 hours,No,,Need
+20,Junior,2.75,White,Female,"$100,000-$200,000","Some College, no degree",High School Degree or Equivalent (e.g. GED),,3.2,business,10-15 hours,8-12,More than 40 hours,No,30.0,Need
+18,Freshman,3.91,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Post Graduate,1400.0,3.9,,10-15 hours,13-17,0 hours,,,
+18,Freshman,4.0,mix,Female,"$35,000-$49,999",Bachelorâ€™s Degree (4-year degree),,1210.0,4.0,,15-20 hours,13-17,10-20 hours,Yes,13.5,Choice
+23,Senior,3.2,White,Male,"$35,000-$49,999",High School Degree or Equivalent (e.g. GED),,,3.1,business,5-10 hours,13-17,30-40 hours,No,20.0,Need
+19,Sophomore,3.35,White,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),High School Degree or Equivalent (e.g. GED),1010.0,3.6,humanities,10-15 hours,13-17,30-40 hours,No,40.0,Need
+22,Senior,3.67,White,Male,"$35,000-$49,999",High School Degree or Equivalent (e.g. GED),High School Degree or Equivalent (e.g. GED),1240.0,3.7,humanities,20-25 hours,8-12,10-20 hours,Yes,13.5,Need
+20,Sophomore,2.85,White,Male,"Over $200,000",Post Graduate,Bachelorâ€™s Degree (4-year degree),1160.0,2.95,business,5-10 hours,8-12,10-20 hours,No,20.0,Choice
+19,Sophomore,3.86,White,Male,"Over $200,000",Post Graduate,Post Graduate,1400.0,,education,Less than 5 hours,13-17,0 hours,,,
+20,Junior,3.34,White,Male,"$100,000-$200,000",,,1300.0,3.3,envir,Less than 5 hours,13-17,10-20 hours,No,22.0,Choice
+18,Freshman,3.7,Asian,Female,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Less than a High School Diploma,1030.0,3.6,business,Less than 5 hours,13-17,10-20 hours,No,13.69,Choice
+20,Junior,2.43,mix,Male,"$50,000-$74,999",Bachelorâ€™s Degree (4-year degree),Associates Degree (2-year degree),,3.6,other,Less than 5 hours,13-17,0 hours,,,
+19,Freshman,3.3,White,Female,"$100,000-$200,000",Associates Degree (2-year degree),Bachelorâ€™s Degree (4-year degree),1190.0,3.7,business,5-10 hours,13-17,20-30 hours,No,15.0,Need
+21,Senior,3.88,White,Male,"$100,000-$200,000",Bachelorâ€™s Degree (4-year degree),Bachelorâ€™s Degree (4-year degree),1440.0,4.0,business,15-20 hours,13-17,10-20 hours,Yes,13.69,Choice
+22,Senior,3.18,White,Female,"$100,000-$200,000",Post Graduate,,1350.0,3.8,business,15-20 hours,13-17,20-30 hours,No,15.0,Choice

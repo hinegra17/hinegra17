@@ -1,1 +1,1 @@
-To check out the notebooks and code we used to create this project, check out the "Final Notebooks" folder. For the writeup of the project, check out the "Writeup" file.
+To check out the notebooks and code we used to create this project, check out the "Final Notebooks" folder. For the writeup of the project, check out the "Writeup" folder.

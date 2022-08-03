@@ -1,0 +1,1 @@
+The highlights in this folder are "3 - Image Slicing and Outlier detection", and the final project which tasked us with finding a data source and writing a fake blog post about applying some exploratory analysis and a machine learning concept of our choice to that data.

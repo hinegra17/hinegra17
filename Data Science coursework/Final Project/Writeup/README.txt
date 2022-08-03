@@ -1,0 +1,1 @@
+If you would like to check out the final comprehensive writeup that myself and the members of my group created for this project, please take a look at the "FINAL WRITEUP.ipynb" notebook. The other stuff in this file are just images for the writeup's notebook.
